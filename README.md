@@ -1,5 +1,5 @@
 Hello everyone 👋,
-My name here is @ChemJuan. I'm currently working on database code using Python, SQL, and Pandas. 
+My name here is @ChemJuan. I'm currently working on database code using Python, SQL, Microsoft Azure and Pandas. 
 I'm learning machine learning and actively seeking collaboration on machine learning projects.
 📫 Reach me via email at: 35juanda@gmail.com.
 
